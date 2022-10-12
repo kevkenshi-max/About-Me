@@ -1,5 +1,5 @@
 import React, { useState } from 'react'
-import { FaBars, FaTimes, FaGithub, FaFacebook, FaLinkedinIn } from 'react-icons/fa'
+import { FaBars, FaTimes, FaGithub, FaLinkedinIn } from 'react-icons/fa'
 import { HiOutlineMail } from 'react-icons/hi'
 import { BsFillPersonLinesFill } from 'react-icons/bs'
 import Me from '../assets/me.jpeg'
