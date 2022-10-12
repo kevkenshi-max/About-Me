@@ -19,7 +19,7 @@ function Navbar() {
             <li>Home</li>
             <li>Abouts</li>
             <li>Skills</li>
-            <li>Projects</li>
+            <li>Work</li>
             <li>Contact</li>
         </ul>
 
@@ -34,7 +34,7 @@ function Navbar() {
             <li className='py-6 text 4xl'>Home</li>
             <li className='py-6 text 4xl'>Abouts</li>
             <li className='py-6 text 4xl'>Skills</li>
-            <li className='py-6 text 4xl'>Projects</li>
+            <li className='py-6 text 4xl'>Work</li>
             <li className='py-6 text 4xl'>Contact</li>
         </ul>
 
@@ -44,28 +44,28 @@ function Navbar() {
             <ul>
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-blue-600'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href='/'>
+                    href='https://www.linkedin.com/in/kevinhhlee/'>
                         Linkedin <FaLinkedinIn size={30} />
                     </a>
                 </li>
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#333333]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href='/'>
+                    href='https://github.com/kevkenshi-max'>
                         Github <FaGithub size={30} />
                     </a>
                 </li>
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#6fc2b0]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href='/'>
+                    href='https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=kevinhhlee6@gmail.com'>
                         Email <HiOutlineMail size={30} />
                     </a>
                 </li>
 
                 <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#565f69]'>
                     <a className='flex justify-between items-center w-full text-gray-300'
-                    href='/'>
+                    href='https://docs.google.com/document/d/1mOt7ArEBnMppVydTEI7WSojCGTG2ai4pmT6KlYWvk7s/edit'>
                         Resume <BsFillPersonLinesFill size={30} />
                     </a>
                 </li>
